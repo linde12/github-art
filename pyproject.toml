@@ -1,0 +1,9 @@
+[project]
+name = "github-status-code"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pillow>=11.0.0",
+]
